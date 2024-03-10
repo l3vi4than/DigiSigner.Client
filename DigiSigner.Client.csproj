@@ -5,6 +5,7 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <BaseOutputPath></BaseOutputPath>
+    <OutDir>$(ProjectDir)bin/</OutDir>
   </PropertyGroup>
 
   <ItemGroup>
